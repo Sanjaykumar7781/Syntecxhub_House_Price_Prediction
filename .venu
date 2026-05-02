@@ -1,0 +1,9 @@
+# Local environment notes for the house price prediction project.
+# This file is informational. Python tools will not automatically read it.
+
+PYTHON_VERSION=3.13.7
+KAGGLE_DATASET=sheemazain/house-price-predication
+MODEL_FILE=house_price_model.pkl
+NOTEBOOK_FILE=app.ipynb
+
+DEPENDENCIES=numpy,pandas,matplotlib,seaborn,kagglehub,joblib,scikit-learn
