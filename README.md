@@ -1,5 +1,8 @@
 # House Price Prediction
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
+
 This project trains a simple machine learning model to predict house prices from a Kaggle dataset. The workflow is contained in `app.ipynb`, and the trained model artifact is saved as `house_price_model.pkl`.
 
 ## Project Files
